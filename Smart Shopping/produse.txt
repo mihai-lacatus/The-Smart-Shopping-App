@@ -1,0 +1,105 @@
+52
+Caramele
+0.75
+Carne de porc
+21.56
+Lapte
+5.50
+Oua
+7.40
+Bomboane
+3.50
+Hartie igienica
+8.63
+Unt
+9
+Conserva ton
+7.65
+Paine
+1.5
+Detergent
+54.63
+Sticks
+0.6
+Detergent vase
+8.65
+Guma de mestecat
+2.5
+Biscuiti
+4.59
+Televizor
+1586.99
+Masti medicinale
+7.5
+Spirt
+5.29
+Gogoasa
+3.29
+Faina
+2.56
+Ulei
+9.90
+Pesmet
+5.45
+Ciuperci
+6.52
+Apa
+4.99
+Morcovi
+2.5
+Castraveti
+6.3
+Chips
+5.65
+Napolitane
+4.56
+Piept de pui
+12.45
+Salata
+3.54
+Ceai
+5
+Sare
+1.56
+Placinta cu mere
+3.6
+Pahare
+15
+Carioci
+6.59
+Telefon
+865.99
+Cana
+6.3
+Lipie
+4.56
+Bomboana sugus
+0.20
+Zahar
+1.25
+Zahar vanilinat
+0.25
+Salam
+16.89
+Sunca
+5.20
+Surub
+0.05
+Cascaval
+16.89
+Piulita
+0.06
+Bluza
+32.6
+Rucsac
+29.86
+Dex
+350.15
+Baterie externa
+250
+Bormasina
+322.99
+Laptop
+1256.99
+Aspirator
+850.99
